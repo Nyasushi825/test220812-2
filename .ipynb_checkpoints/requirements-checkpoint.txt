@@ -1,7 +1,1 @@
-streamlit
-python
-pandas
-numpy
-matplotlib.pyplot
-altair
-PIL
+streamlit==1.11.1
